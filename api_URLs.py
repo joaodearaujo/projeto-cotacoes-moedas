@@ -1,0 +1,1 @@
+URLs = { 'url_cotacao_tempo_real':'https://economia.awesomeapi.com.br/last/', 'url_cotacao_dias_anteriores_e_especificos':'https://economia.awesomeapi.com.br/json/daily/' }    

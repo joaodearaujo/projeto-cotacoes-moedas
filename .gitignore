@@ -1,0 +1,4 @@
+venv-cotacao-de-moedas/
+__pycache__/
+*.pyc
+.DS_Store
